@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Kevin Garcia
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m a Web Development.
 - 👀 I’m interested in Computer Networks, IA and Cyber Sec.
 - 💞️ I’m looking to collaborate on something interesting.
-- 📫 Twitter: @k3gar_
 
 
 <p align="left">
