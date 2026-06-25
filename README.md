@@ -16,7 +16,7 @@ $ whoami
 > Frontend Developer · Network Engineer · Offensive Security (in progress)
 > 4+ years building high-traffic e-commerce platforms (React · TypeScript · VTEX IO)
 > Background: network infrastructure, firewalls, virtualization (pfSense · Proxmox · Cisco)
-> Currently: Cisco Ethical Hacker cert | Building pentesting lab | Learning Go
+> Currently: Cisco Ethical Hacker Course | Building pentesting lab | Learning Go
 > Open to: Frontend, Networking, or Security roles
 ```
 
